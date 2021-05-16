@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/nehasharma/.dotnet/store/|arch|/|tfm|",
+      "/Users/nehasharma/.nuget/packages"
+    ]
+  }
+}
